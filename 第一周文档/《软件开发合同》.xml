@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.8" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《软件开发合同》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:--f0A8--Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><软件开发合同 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="五子棋" 项目标识="BL-I-B" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识></文件标识>
+			<当前版本>1.0.0v</当前版本>
+			<作者>
+				<姓名>刘奕苇、韦莹</姓名>
+				<学号>2019011223、2018011792</学号>
+				<团队>软工项目小组-管理组、用户组</团队>
+			</作者>
+			<完成日期>2022-09-14</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 613px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 95px"/>
+<col style="WIDTH: 88px"/>
+<col style="WIDTH: 45px"/>
+<col style="WIDTH: 124px"/>
+<col style="WIDTH: 261px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 7px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">版本/状态</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">作者</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">参与者</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">起止日期</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">备注</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 16px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">1.0/正式版本</font></div></font></td>
+<td vAlign="top">刘奕苇、韦莹<!--EndFragment--></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">2022年9月14日至9月15日</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">依据招标书、可行性计划起草本文档。</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+			<定义与缩写>
+				<术语></术语>
+				<解释></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<合同编号>20220912</合同编号>
+	<签订单位>
+		<甲方>
+			<名称>软工集团</名称>
+			<联系方式>12345678</联系方式>
+			<银行帐户><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">7927981347318716938</font></div></div></银行帐户>
+		</甲方>
+		<乙方>
+			<名称>软工项目小组</名称>
+			<联系方式><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">17614861081</font></div></div></联系方式>
+			<银行帐户><div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="仿宋_GB2312">71382469816389430</font></div></银行帐户>
+		</乙方>
+		<其他方>
+			<名称></名称>
+			<联系方式></联系方式>
+			<银行帐户></银行帐户>
+		</其他方>
+	</签订单位>
+	<引言><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">本合同根据软工集团工程招投标中心招标编号JPYDXT20050718招标文件和该项招标的中标通知书于2022 年09 月01日由软工项目小组（供方）与软工集团（需方）签订。并经供需双方友好协商同意下列条款：</font></div></div></引言>
+	<总则><font xmlns="http://www.w3.org/1999/xhtml" size="2" face="宋体">该合同旨在说明甲乙双方的责任，表明下述合同正文的内容系由当事人自愿协商一致而订立，当事人双方愿意受其约束。</font></总则>
+	<项目描述><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">为了对喜欢博弈类休闲游戏的群体提供游戏服务，提高软工集团的休闲游戏市场占有率，软工集团决定推出复合型五子棋软件，主要功能包括：人机对战、人人对战、局域联网对战。目的是为喜欢五子棋群体提供游戏服务，以及局域网内五子棋对战，赋予五子棋社交属性，替代传统线下棋盘对战，以此扩大市场占有率，提高软件留存率。</font></div></div></项目描述>
+	<研究开发计划><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2"> 本项目采用基本软件生命周期，使用瀑布模型进行小组开发，需求组用户组负责撰写需求分析报告，可行性分析报告；开发组负责技术实现和项目开发；测试组负责软件测试和质保；配置组负责项目配置及整合。</font></div></div></研究开发计划>
+	<合同总额和构成><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">合同总额为（人民币大写）：拾万元整</font></div>
+<div><font size="2" face="宋体">其中： </font></div>
+<div><font size="2" face="宋体">软件开发费：柒万元整</font></div>
+<div><font size="2" face="宋体">系统软件购置费：壹万元整</font></div>
+<div><font size="2" face="宋体">培训费：贰万元整</font></div></div></合同总额和构成>
+	<付款方式和时间><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">甲方在合同签订后三个工作日内支付乙方合同额的50％，计：人民币伍万元整；系统初验通过后七个工作日内支付乙方合同额的30％，计：人民币人民币叁万元整；通过终验后五个工作日内付清乙方合同额20%，计：人民币贰万元整。</font></div></div></付款方式和时间>
+	<履行的期限地点和方式><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">在北京信息科技大学计算中心进行支票交付</font></div></div></履行的期限地点和方式>
+	<责任>
+		<甲方>
+			<条款><font xmlns="http://www.w3.org/1999/xhtml" size="2" face="宋体">双方签订合同后三个工作日内，需方向供方支付预付款，并按合同规定分类分期地付款。需方（包括个部门）在工程实施的各环节上应积极向供方提供相应的人力和环境配合，以保证乙方在软件的应用调研、开发测试、安装调试、培训辅导等阶段顺利地进行软件施工。</font></条款>
+		</甲方>
+		<乙方>
+			<条款><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">供方在收到需方的预付款后二个工作日内开始软件项目工程的实施。</font></条款><条款><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">供方按照"系统设计方案和软件功能描述、信息系统功能组成及描述"中所列的内容分别完成软件各功能模块的制作。</font></font></条款><条款><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"><font size="2" face="宋体">在软件系统正常运行后，供方提供相应源代码及相应技术文档。</font></font></font></条款><条款><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"><font size="2" face="宋体"><font size="2" face="宋体">供方按照"系统服务范围和内容"分别提供本项目的系统服务。</font></font></font></font></条款><条款><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"><font size="2" face="宋体"><font size="2" face="宋体"><font size="2" face="宋体">供方按照"培训计划"提供相关的培训服务。</font></font></font></font></font></条款><条款><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">供方在合同规定的维护期满后，有义务向需方提供有偿的后续技术支持。</font><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"><font size="2" face="宋体"><font size="2" face="宋体"><font size="2" face="宋体"></font></font></font></font></font></条款>
+		</乙方>
+		<其他方>
+			<条款></条款>
+		</其他方>
+	</责任>
+	<违约责任></违约责任>
+	<其他责任><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-WEIGHT: normal"><font size="2">供方在本合同中所提供给需方的软件源代码及其技术文档只能在需方的内部使用，需方不得将此次软件中的任何功能模块和技术资料提供给第三方。</font></div></其他责任>
+	<保密要求><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">合同按中华人民共和国知识产权保护条例、计算机软件保护条例、经济合同法以及适用于本合同的有关法律条例执行。</font></div></div></保密要求>
+	<技术成果的归属和分享><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">本项目最终所得由软件项目小组（乙方）所有，甲方拥有使用权和运营权，可用本项目进行商业活动。</font></div></div></技术成果的归属和分享>
+	<验收标准><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">供、需双方按照中标的投标文件中"验收标准"或双方认可的标准分别对平台软件、系统软件功能、移交的程序和文件以及相关的系统服务进行验收。</font></div></div></验收标准>
+	<风险承担><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">软件系统投入运行后一切风险后果由甲方自行承担。</font></div></div></风险承担>
+	<违约金和损失赔偿额><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">除因不可抗力因素（指发生战争、地震、洪水等其他人力不能控制的不可抗力事件）外，若因任何一方违反协议造成损失，由违反协议一方按照合同金额人民币拾万元整进行十倍赔偿（赔偿额人民币壹佰万整）。</font></div></div></违约金和损失赔偿额>
+	<解决合同纠纷的方式><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">
+<div><font size="2" face="宋体">本合同未尽事宜，双方另行协商签定补充条款，补充条款与本合同具有同等法律效力。未尽事宜均按照中国人民共和国现行有关法律进行补充。</font></div></font></div>
+<div><font size="2" face="宋体">因本合同引起的争议，供需双方应首先通过友好协商解决。如果在一方向另一方发出要求协商的书面通知后六十天内仍不能解决争议，则应依司法程序解决。</font></div></div></解决合同纠纷的方式>
+	<名词术语解释>无</名词术语解释>
+	<其他><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">本合同未尽事宜，双方另行协商签定补充条款，补充条款与本合同具有同等法律效力。未尽事宜均按照中国人民共和国现行有关法律进行补充。本合同一式四份，双方各执二份，经双方签字盖章后生效。协议从签订之日起，乙方在90个工作日内完成系统开发并提交给甲方。系统提交给甲方之日起的10个工作日内，乙方负责对甲方有关人员进行培训。乙方在项目验收合格后提供一年的免费维护。</font></div></div></其他>
+	<签字签章>
+		<甲方>软工集团</甲方>
+		<乙方>软工项目小组</乙方>
+		<其他方></其他方>
+	</签字签章>
+	<补充条款>无</补充条款>
+</软件开发合同>
