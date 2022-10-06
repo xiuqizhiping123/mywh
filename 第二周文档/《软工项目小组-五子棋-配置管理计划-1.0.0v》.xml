@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.9" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《配置管理计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:---Q6QB-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><配置管理计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="五子棋" 项目标识="BL-I-G" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>BL-I-G</文件标识>
+			<当前版本>1.0.0v</当前版本>
+			<作者>
+				<姓名>黄显雯、钟圣生、韦莹</姓名>
+				<学号>2019011343、2019011357、2018011792</学号>
+				<团队>软工项目小组-管理组、开发组、配置组</团队>
+			</作者>
+			<完成日期>2022-09-15</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 613px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 95px"/>
+<col style="WIDTH: 88px"/>
+<col style="WIDTH: 45px"/>
+<col style="WIDTH: 124px"/>
+<col style="WIDTH: 261px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 7px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">版本/状态</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">作者</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">参与者</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">起止日期</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">备注</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 16px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">1.0/正式版本</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">黄显雯、钟圣生、韦莹</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">2022年9月14日至9月15日</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">依据项目开发合同和项目开发计划起草本文档。</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员>项目投资客户。软工项目小组</使用人员>
+			<编写目的><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">为保证项目开发过程中软件产品的完整性和一致性，保证在项目组中有计划的实施配置管理，特制定此SCM计划，作为项目SCM活动的依据。</font></div></div></编写目的>
+			<背景><div xmlns="http://www.w3.org/1999/xhtml">1、软件名称：五子棋</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、项目提出方：软工集团</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、开发者：软工项目小组</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4、计算网络：北京信息科技大学局域网</div>
+<div xmlns="http://www.w3.org/1999/xhtml">5、往来系统：无</div></背景>
+			<定义与缩写>
+				<术语>SCM</术语>
+				<解释><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">Software Configuration Managerment （软件配置管理）</font></div></div></解释>
+			<术语>CC</术语><解释><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">Configuration Control （配置管理员）</font></div></div></解释><术语>CCB</术语><解释><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">Configuration Control Board (配置控制委员会)</font></div></div></解释><术语>SCMG</术语><解释><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">Software Configuration Managerment group （软件配置管理小组）</font></div></div></解释></定义与缩写>
+			<参考资料>
+				<条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">1．《配置管理规程》</font></条目><条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">2、《配置管理计划模板》</font></条目><条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3、《项目开发合同》</font></font></条目><条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">4、《项目开发计划》</font></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<软件配置管理>
+		<组织职责和接口>
+			<说明><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">在五子棋博弈系统项目的整个开发期间，由软件配置管理小组（SCMG）和变更控制管理委员会（CCB）负责配置管理工作。</font></div></div></说明>
+			<配置管理的角色和职责>
+				<角色>配置管理员</角色>
+				<人员>向雪</人员>
+				<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">（1）制定《配置管理计划》</font></div>
+<div><font size="2" face="宋体">（2）创建和维护配置库</font></div></div></职责与工作范围>
+			</配置管理的角色和职责>
+		<配置管理的角色和职责>
+									<角色>CCB负责人</角色>
+									<人员>黄显雯</人员>
+									<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">（1）审批《配置管理计划》</font></div>
+<div><font size="2" face="宋体">（2）审批重大的变更</font></div></div></职责与工作范围>
+								</配置管理的角色和职责><配置管理的角色和职责>
+									<角色>CCB成员</角色>
+									<人员>钟圣生</人员>
+									<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">审批某些配置项或基线的变更</font></div></div></职责与工作范围>
+								</配置管理的角色和职责><配置管理的角色和职责>
+									<角色>CCB成员</角色>
+									<人员>赵禹</人员>
+									<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">审批某些配置项或基线的变更</font></div></div></职责与工作范围>
+								</配置管理的角色和职责></组织职责和接口>
+		<工具和环境>
+			<说明><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">硬件: PC、服务器</font></div>
+<div><font size="2" face="宋体">开发工具: Android Studio、SQL Server</font></div>
+<div><font size="2" face="宋体">开发环境: Windows 10或11 操作系统</font></div>
+<div><font size="2" face="宋体">运行环境: Android 4.0 及以上</font></div></div></说明>
+			<受控库>
+				<结构><img xmlns="http://www.w3.org/1999/xhtml" tabIndex="-1" style="HEIGHT: 764px; WIDTH: 415px" src="msoinline/d1835b5922114687" xd:inline="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j+XrXn82u07Ke+VW6/XDK3jzAkjqPVeM18p+V+eUrTa6x2jdqmfWwjO8eQGeLQinES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuES84j4wPoJjuuWq88r5n+2+Njebvqu81u3ce/8o9wC5vX4CU1BJ73afHK++vbqt6c0f3KMfy75WtVF8nrb6sHBvNg0jevAApoSX1uqvFa2evzzxXXlvfY3adjH53NAav4i0MkJJbgq+7Urxa++ztvezP39PnqLXk/tlnSxqbNXgHb14ASb3nKvFq7XG07/xcuZVm60r5eva5anc+RPAWBkjJLcHX5Xh9YstaY6mtaM0r+1bHZ59J+p5bz2gMXsVbGGCW/Pwqx+sTW0vd35uXtMZW+7I8NvsslX3pe275Gt7NWxigTHTmrhKv0T5b/b2+XqvlvtXPUt1XXrfmw6t5CwOk5Jbg6z49Xnl/K600G2t9lnpzep+luq+8bs2HV/MWBkjJLcHXXTFerf3uPEOe21uzcv/RPXpzs9YaeCVvYICU2JJ73VXiVe6x933Fytq6P1+35o/6eut6/fAq3rwAKaEl9borxKve3+y6VD/f7HvZl/XWJL359Zqyr/6EV/PmBSiTnLlPj1drbyt9recaXefvO2uS+jop75VbrdcPr+DNCyCp91wpXnmvj+y3t2Z0z9HvjNatemYtPMObF+DZgnAa8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiuke8YLzyPgAiumeK8drZ9/13K965t375vGv+n14hLcvQEpqib3uk+OV99bb386+67mjteVY+l63Un2dtPqycmw0DyJ58wKkhJbU664Qr9b+ct9o7+VYPW+0Lundf+U+o3uPxuBVvIUBUnJL8HVXiFe9v9l1Vva31tStJffPPlvS2KzBO3jz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"/></结构>
+				<访问权限><div xmlns="http://www.w3.org/1999/xhtml">
+<div>
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 257pt; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 113px"/>
+<col style="WIDTH: 104px"/>
+<col style="WIDTH: 104px"/>
+<col style="WIDTH: 91px"/>
+<col style="WIDTH: 102px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 40px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>目录结构</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>向雪</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>五子棋博弈系统项目组成员</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>黄显雯</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>钟圣生</strong></font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">需求</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">分析设计</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">实施</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">测试</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">部署</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">项目管理</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">环境</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr></tbody></table></div></div></访问权限>
+			</受控库>
+			<开发库>
+				<结构><img xmlns="http://www.w3.org/1999/xhtml" tabIndex="-1" style="HEIGHT: 582px; WIDTH: 599px" src="msoinline/68b48d7819d4e4c" xd:inline="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"/></结构>
+				<访问权限><div xmlns="http://www.w3.org/1999/xhtml">
+<div>
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 284.5pt; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 125px"/>
+<col style="WIDTH: 115px"/>
+<col style="WIDTH: 115px"/>
+<col style="WIDTH: 101px"/>
+<col style="WIDTH: 113px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 42px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>目录结构</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>向雪</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>五子棋博弈系统项目组成员</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>黄显雯</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>钟圣生</strong></font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 23px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">需求</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">分析设计</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">实施</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">测试</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">部署</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">项目管理</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">环境</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">读/写</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr></tbody></table></div></div></访问权限>
+			</开发库>
+			<产品库>
+				<结构><img xmlns="http://www.w3.org/1999/xhtml" tabIndex="-1" style="HEIGHT: 194px; WIDTH: 407px" src="msoinline/4e6475dd588b433c" xd:inline="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"/></结构>
+				<访问权限><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 563px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 93px"/>
+<col style="WIDTH: 98px"/>
+<col style="WIDTH: 98px"/>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 98px"/>
+<col style="WIDTH: 80px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 30.5pt">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>目录结构</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>向雪</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>五子棋博弈系统项目组成员</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>黄显雯</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>钟圣生</strong></font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"><strong>赵禹</strong></font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 18px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">用户文档</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">不可读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">不可读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 18px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">程序</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">完全控制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">不可读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">不可读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">只读</font></div></font></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></访问权限>
+			</产品库>
+		</工具和环境>
+	</软件配置管理>
+	<配置管理活动>
+		<说明>进行相关文档产品的生产配置管理</说明>
+		<配置标识>
+			<文档标识方法>
+				<基线产品>
+					<文档>软件需求说明书</文档>
+					<命名>《软件开发计划》 版本号</命名>
+					<编号>SDP-版本号</编号>
+					<备注>SRS(Softwar Requirements Specification)</备注>
+				</基线产品>
+				<基线产品>
+									<文档>系统设计文档</文档>
+									<命名>《软件系统设计文档》版本号</命名>
+									<编号>SDD-版本号</编号>
+									<备注>SDD(System Design  Document)</备注>
+								</基线产品><基线产品>
+									<文档>用户使用手册</文档>
+									<命名>《用户使用手册》 版本号</命名>
+									<编号>UG-版本号</编号>
+									<备注>UG(User’s Guide)</备注>
+								</基线产品><基线产品>
+									<文档>测试用例</文档>
+									<命名>《测试用例》 版本号</命名>
+									<编号>TC-版本号</编号>
+									<备注>TF(Testing Case)</备注>
+								</基线产品><基线产品>
+									<文档>系统测试报告</文档>
+									<命名>《系统测试报告》 版本号</命名>
+									<编号>STR-版本号</编号>
+									<备注>STR(System Testing     Report )</备注>
+								</基线产品><非基线产品>
+					<文档>软件开发计划</文档>
+					<命名>《软件开发计划》 版本号</命名>
+					<编号>SDP-版本号</编号>
+					<备注>SDP（Software DevelopmentPlan)</备注>
+				</非基线产品>
+			<非基线产品>
+									<文档>项目测试计划</文档>
+									<命名>《项目测试计划》 版本号</命名>
+									<编号>PTP-版本号</编号>
+									<备注>PTP(Project Testing Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>配置管理计划</文档>
+									<命名>《软件配置管理计划》 版本号</命名>
+									<编号>SCMP-版本号</编号>
+									<备注>SCMP(SoftwareConfiguration Management Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>质量保证计划</文档>
+									<命名>《软件质量保证计划》 版本号</命名>
+									<编号>SQAP-版本号</编号>
+									<备注>SQAP(Software Quality Assurance Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>变更申请单</文档>
+									<命名>《变更申请单》</命名>
+									<编号>(变更项英文名缩写)-yymmdd</编号>
+									<备注></备注>
+								</非基线产品><非基线产品>
+									<文档>配置管理状态报告</文档>
+									<命名>《配置管理状态报告》</命名>
+									<编号>SR-yymmdd</编号>
+									<备注>SR(State Report)</备注>
+								</非基线产品><非基线产品>
+									<文档>问题报告</文档>
+									<命名>《问题报告》</命名>
+									<编号>PR-yymmdd</编号>
+									<备注>PR(Problem Report)</备注>
+								</非基线产品><非基线产品>
+									<文档>基线建立-变更通告</文档>
+									<命名>《基线建立-变更通告》</命名>
+									<编号>BR-yymmdd</编号>
+									<备注>BR(Baseline Report)</备注>
+								</非基线产品><非基线产品>
+									<文档>物理配置审核表</文档>
+									<命名>《物理配置审核表》</命名>
+									<编号>PA-yymmdd</编号>
+									<备注>PA(PhysicalAuditing)</备注>
+								</非基线产品><非基线产品>
+									<文档>功能配置审核表</文档>
+									<命名>《功能配置审核表》</命名>
+									<编号>FA-yymmdd</编号>
+									<备注>FA(Function Auditing)</备注>
+								</非基线产品><非基线产品>
+									<文档>内部验收申请</文档>
+									<命名>《内部验收申请》</命名>
+									<编号>IA</编号>
+									<备注>IA(Inside  Acceptance)</备注>
+								</非基线产品></文档标识方法>
+			<代码标识方法><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">代码的标识方法参见《软件设计编码规范》的程序命名规则。</font></div></div></代码标识方法>
+			<项目基线>
+				<阶段>
+					<阶段点>需求分析阶段</阶段点>
+					<基线>
+						<基线名称>指派基线</基线名称>
+						<基线标识>五子棋博弈系统1.0-B-Dis-040806</基线标识>
+						<包含内容>
+							<产品名称>《软件需求规约》</产品名称>
+							<入库时间>2022-09-15</入库时间>
+						</包含内容>
+						<包含内容>
+									<产品名称>《1.0词汇表》</产品名称>
+									<入库时间>2022-09-15</入库时间>
+								</包含内容><包含内容>
+									<产品名称>《1.0用例实现规约》</产品名称>
+									<入库时间>2022-09-15</入库时间>
+								</包含内容><预计基线建立时间>2022-09-15</预计基线建立时间>
+					</基线>
+				</阶段>
+			<阶段>
+									<阶段点>设计阶段</阶段点>
+									<基线>
+										<基线名称>设计基线</基线名称>
+										<基线标识>五子棋博弈系统1.0-B-Des-040807</基线标识>
+										<包含内容>
+											<产品名称>《1.0Rose设计文档》</产品名称>
+											<入库时间>2022-09-22</入库时间>
+										</包含内容>
+										<包含内容>
+									<产品名称>《1.0数据字典》</产品名称>
+									<入库时间>2022-09-22</入库时间>
+								</包含内容><包含内容>
+									<产品名称>《1.0软件构架文档》</产品名称>
+									<入库时间>2022-09-22</入库时间>
+								</包含内容><预计基线建立时间>2022-09-22</预计基线建立时间>
+									</基线>
+								</阶段><阶段>
+									<阶段点>实现阶段</阶段点>
+									<基线>
+										<基线名称>产品基线</基线名称>
+										<基线标识>五子棋博弈系统1.0-B-Pro-040905</基线标识>
+										<包含内容>
+											<产品名称>《源代码和程序》</产品名称>
+											<入库时间>2022-10-13</入库时间>
+										</包含内容>
+										<包含内容>
+									<产品名称>《1.0用户手册》</产品名称>
+									<入库时间>2022-10-15</入库时间>
+								</包含内容><预计基线建立时间>2022-10-15</预计基线建立时间>
+									</基线>
+								</阶段></项目基线>
+			<配置项的版本管理>每进行一次迭代，进行一次配置项版本管理</配置项的版本管理>
+		</配置标识>
+		<配置和变更控制>
+			<变更请求的处理和审批><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">在项目开发过程中所产生的工作产品的变更，遵循《配置管理规程》V2.0中2.24节的变更处理和审批流程。开发过程中所产生的各种记录、报告、和会议纪要无需经过评审和批准可直接纳入受控库。</font></div></div></变更请求的处理和审批>
+			<变更控制委员会><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">该项目的CCB组成人员见表2-1，CCB的组成人员所遵从的成员资格见《配置管理规程》的7.1节CCB组成。</font></div></div></变更控制委员会>
+		</配置和变更控制>
+		<配置状态统计>
+			<项目介质存储和发布进程><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">该项目的备份策略是：每天对项目的三个配置库做增量备份，每周做全备份。备份介质是硬盘；备份人是服务器的系统管理员。</font></div>
+<div><font size="2" face="宋体">由项目经理负责提出产品的发布、由CCB主席负责批准，然后再CQ中进行产品的发布。</font></div></div></项目介质存储和发布进程>
+			<报告和审核><div xmlns="http://www.w3.org/1999/xhtml">
+<div>周期性报告</div>
+<div>根据该项目的规模，定于每月15号由该项目的配置管理员向相关人员发布《配置管理状态报告》。具体内容见《配置管理状态报告》模版。</div>
+<div>非周期性报告</div>
+<div>非周期性的报告有《基线建立通告》、《问题报告》、《工作产品出入库通告》，这些报告将根据实际发生的情况由该项目的配置管理员向相关人员进行实时的报告。</div>
+<div>审核</div>
+<div>项目在系统测试结束后，由向雪、黄显雯、钟圣生共同完成功能审核并填写《功能配置审核</div>
+<div>表》；由刘奕苇和赵禹共同完成物理审核并填写《物理配置审核表》。</div></div></报告和审核>
+		</配置状态统计>
+	</配置管理活动>
+	<里程碑>
+		<里程碑名称>需求分析</里程碑名称>
+		<提交工作产品>《软件需求规格说明》、《软件开发计划》、《质量保证计划》、《测试计划》、《配置管理计划》</提交工作产品>
+		<提交人>刘奕苇、陈龙、张樱蓝、向雪</提交人>
+		<提交时间>2022-09-15</提交时间>
+	</里程碑>
+	<里程碑>
+									<里程碑名称>设计</里程碑名称>
+									<提交工作产品>《系统设计文档》</提交工作产品>
+									<提交人>赵禹</提交人>
+									<提交时间>2022-09-22</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>编码</里程碑名称>
+									<提交工作产品>《源代码和程序》、《数据库文件》、《用户手册》</提交工作产品>
+									<提交人>赵禹</提交人>
+									<提交时间>2022-10-17</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>集成测试</里程碑名称>
+									<提交工作产品>《测试用例》、《测试报告》 </提交工作产品>
+									<提交人>张樱蓝</提交人>
+									<提交时间>2022-10-25</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>验收</里程碑名称>
+									<提交工作产品>《内部验收申请》 、《功能配置审核表》、《物理配置审核表》</提交工作产品>
+									<提交人>陈龙</提交人>
+									<提交时间>2022-10-28</提交时间>
+								</里程碑><培训和资源>专项培训费：贰万元</培训和资源>
+	<分包商和厂商软件控制>无</分包商和厂商软件控制>
+</配置管理计划>

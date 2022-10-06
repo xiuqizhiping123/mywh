@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.3" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《质量保证计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-X-M1QB-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><质量保证计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="五子棋" 项目标识="BL-I-F" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>BL-I-F</文件标识>
+			<当前版本>1.0.0v</当前版本>
+			<作者>
+				<姓名>张樱蓝、张硕、程洋、韦莹</姓名>
+				<学号>2019011428、2019011427、2019011251、2018011792</学号>
+				<团队>软件项目小组</团队>
+			</作者>
+			<完成日期>2022-09-15</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<div>
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 613px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 95px"/>
+<col style="WIDTH: 88px"/>
+<col style="WIDTH: 45px"/>
+<col style="WIDTH: 124px"/>
+<col style="WIDTH: 261px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 7px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">版本/状态</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">作者</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">参与者</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">起止日期</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">备注</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 16px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">1.0/正式版本</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">张樱蓝、张硕、程洋、韦莹</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">2022年9月14日至9月15日</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">依据项目开发合同和项目开发计划起草本文档。</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体"></font> </div></font></td></tr></tbody></table></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员><div xmlns="http://www.w3.org/1999/xhtml">项目投资客户、软工项目小组</div></使用人员>
+			<编写目的>五子棋游戏质量保证计划的内容包括完成项目所需的各项质量保证活动描述、相关人员的职责及承诺，是五子棋项目开展质量保证工作的依据。</编写目的>
+			<背景><div xmlns="http://www.w3.org/1999/xhtml">1、软件名称：五子棋</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、项目提出方：软工集团</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、开发者：软工项目小组</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4、计算网络：北京信息科技大学局域网</div>
+<div xmlns="http://www.w3.org/1999/xhtml">5、往来系统：无</div></背景>
+			<定义与缩写>
+				
+			</定义与缩写>
+			<参考资料>
+				<条目>《软件开发合同》</条目><条目>《软件开发计划》</条目><条目>《质量保证计划》模板</条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<过程与产品质量检查计划>
+		<过程域>
+			<名称>系统规划</名称>
+			<工作成果><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-LEFT: 0pt; PADDING-RIGHT: 0pt" align="justify"><span style="FONT-SIZE: 10.5pt"><font face="宋体">软件项目计划、配置管理计划、质量保证计划</font></span></div></工作成果>
+			<检查时间>2022-09-15</检查时间>
+			<质保人员>张樱蓝、张硕、程洋</质保人员>
+			<检查人员>韦莹</检查人员>
+		</过程域>
+	<过程域>
+									<名称>需求开发</名称>
+									<工作成果><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-LEFT: 0pt; PADDING-RIGHT: 0pt" align="justify"><span style="FONT-SIZE: 10.5pt"><font face="宋体">需求规格说明书</font></span></div></工作成果>
+									<检查时间>2022-09-25</检查时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<检查人员>陈龙</检查人员>
+								</过程域><过程域>
+									<名称>设计</名称>
+									<工作成果><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-LEFT: 0pt; PADDING-RIGHT: 0pt" align="justify"><span style="FONT-SIZE: 10.5pt"><font face="宋体">概要设计说明书、数据库设计说明书、模块设计说明书</font></span></div></工作成果>
+									<检查时间>2022-09-27</检查时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<检查人员>向雪</检查人员>
+								</过程域><过程域>
+									<名称>实现</名称>
+									<工作成果><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-LEFT: 0pt; PADDING-RIGHT: 0pt" align="justify"><span style="FONT-SIZE: 10.5pt"><font face="宋体">产品代码（源程序）</font></span></div></工作成果>
+									<检查时间>2022-10-25</检查时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<检查人员>赵禹</检查人员>
+								</过程域><过程域>
+									<名称>系统集成</名称>
+									<工作成果><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-LEFT: 0pt; PADDING-RIGHT: 0pt" align="justify"><span style="FONT-SIZE: 10.5pt"><font face="宋体">测试报告</font></span></div></工作成果>
+									<检查时间>2022-10-27</检查时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<检查人员>刘奕苇</检查人员>
+								</过程域><过程域>
+									<名称>提交</名称>
+									<工作成果><div xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-LEFT: 0pt; PADDING-RIGHT: 0pt" align="justify"><span style="FONT-SIZE: 10.5pt"><font face="宋体">验收报告</font></span></div></工作成果>
+									<检查时间>2022-10-29</检查时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<检查人员>韦莹</检查人员>
+								</过程域></过程与产品质量检查计划>
+	<技术评审计划>
+		<评审内容>
+			<名称>软件项目计划</名称>
+			<方式>FTR</方式>
+			<评审时间>2022-09-20</评审时间>
+			<质保人员>张樱蓝、张硕</质保人员>
+			<评审人员>张樱蓝、张硕</评审人员>
+		</评审内容>
+	<评审内容>
+									<名称>配置管理计划</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-09-23</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>质量保证计划</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-09-24</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>需求规格说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-09-26</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>概要设计说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-09-28</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>数据库设计说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-09-30</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>模块设计说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-10-03</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>人机对战维护模块源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2022-10-09</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>两人对战模块源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2022-10-17</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>联网PK模块源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2022-10-24</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>集成测试报告</名称>
+									<方式>ITR</方式>
+									<评审时间>2022-10-25</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>系统测试报告</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-10-27</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容><评审内容>
+									<名称>验收测试报告</名称>
+									<方式>FTR</方式>
+									<评审时间>2022-10-28</评审时间>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<评审人员>张樱蓝、张硕</评审人员>
+								</评审内容></技术评审计划>
+	<产品测试计划>
+		<测试内容>
+			<测试类型>单元测试</测试类型>
+			<测试时间>2022-10-25</测试时间>
+			<测试计划>单元测试“人机对战”、“两人对战”、“联网PK”三个模块。</测试计划>
+			<质保人员>张樱蓝、张硕</质保人员>
+			<测试人员>张樱蓝、张硕</测试人员>
+		</测试内容>
+	<测试内容>
+									<测试类型>集成测试</测试类型>
+									<测试时间>2022-10-27</测试时间>
+									<测试计划>验证各单元之间的接口以及集成工作版本的功能、性能等。</测试计划>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<测试人员>张樱蓝、张硕</测试人员>
+								</测试内容><测试内容>
+									<测试类型>系统测试</测试类型>
+									<测试时间>2022-10-28</测试时间>
+									<测试计划>确认软件系统工作版本是否满足需求。</测试计划>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<测试人员>张樱蓝、张硕</测试人员>
+								</测试内容><测试内容>
+									<测试类型>验收测试</测试类型>
+									<测试时间>2022-10-29</测试时间>
+									<测试计划>部署软件之前的最后一个测试操作。</测试计划>
+									<质保人员>张樱蓝、张硕</质保人员>
+									<测试人员>张樱蓝、张硕</测试人员>
+								</测试内容></产品测试计划>
+	<质量目标>根据本项目的特点，制定项目的总体质量目标如下：<br xmlns="http://www.w3.org/1999/xhtml"/>1)基于需求的测试覆盖率为100%。<br xmlns="http://www.w3.org/1999/xhtml"/>2)软件功能测试用例通过率不低于95%。<br xmlns="http://www.w3.org/1999/xhtml"/>3)每个阶段评审中发现的问题都已解决或等到妥善处理。<br xmlns="http://www.w3.org/1999/xhtml"/>4)产品验收时不存在严重问题及缺陷。<br xmlns="http://www.w3.org/1999/xhtml"/>注：严重问题指导致系统或功能模块不能正常工作的问题。</质量目标>
+	<质量保证活动>正式技术评审（FTR）采用评审会议形式；非正式技术评审（ITR）采用文件传阅形式。正式技术评审必须形成评审记录。质量保证人员将发现的问题和解决情况在例会上通报，对未解决的问题进行讨论，对不能解决的问题提交项目经理。<br xmlns="http://www.w3.org/1999/xhtml"/>每个周末，进行一次例会，对配置管理进行审核，确认配置管理工作是否正常进行。</质量保证活动>
+	<记录的收集维护和保存><div xmlns="http://www.w3.org/1999/xhtml">1、记录：《测试用例》、《测试报告》、《缺陷追踪记录》</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、电子、纸质存档相关文件两年</div></记录的收集维护和保存>
+</质量保证计划>

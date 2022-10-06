@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.4" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《任务书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-kQV-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><任务书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="五子棋" 项目标识="BL-I-C" version="1.0">
+		<状态与版本信息>
+			<文件状态></文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名>刘奕苇、陈龙、韦莹</姓名>
+				<学号>2019011223、2019011248、2018011792</学号>
+				<团队>软工项目小组-管理组、用户组</团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+		</引言>
+	</首部>
+	<下达人>刘涵</下达人>
+	<下达时间>2022-09-14</下达时间>
+	<项目经理>韦莹</项目经理>
+	<项目计划提交期限>2022-10-31</项目计划提交期限>
+	<送达人>卢永衡</送达人>
+	<项目目标>
+		<目标条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">管理目标：在成本可控的范围内，项目组持续跟进推进顺利实现<font size="2" face="宋体">实现一个综合性的五子棋项目。</font></font></目标条目><目标条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">技术目标：<font size="2" face="宋体">利用安卓平台和JAVA语言进行实现，利用剪枝算法，博弈树，估值算法，搜索算法等相关算法和相应数据结构，实现具有初步人工智能的五子棋博弈程序。</font></font></font></目标条目><目标条目><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"><font size="2" face="宋体"><font size="2" face="宋体">项目性能目标：实现ai的快速反应；易用性；操作界面简洁性；应用可扩充性。</font></font></font></font></目标条目>
+	</项目目标>
+	<项目范围>
+		<项目性质><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">该项目是基于博弈算法的智能五子棋小程序，是商业盈利性质项目。</font></div></div></项目性质>
+		<项目组成><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">前端实现五子棋对战页面，后端实现五子棋博弈算法及对战模式选择算法</font></div></div></项目组成>
+		<项目要求><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">本项目至少要实现以下三个模块：人机对战，人人对战，局域网联机对战。程序必须包含这三项基本功能，可以根据项目特性和用户需求进行扩展。</font></div></div></项目要求>
+		<项目范围特殊说明>无</项目范围特殊说明>
+	</项目范围>
+	<项目输入>
+		<输入条目>软件开发合同 </输入条目><输入条目>组织过程资产 </输入条目><输入条目>项目工作说明书 </输入条目><输入条目>可行性分析报告</输入条目>
+	</项目输入>
+	<项目用户>喜欢休闲博弈类小游戏群体</项目用户>
+	<与其他项目关系>无</与其他项目关系>
+	<项目限制>
+		<完成时间>2022-10-31</完成时间>
+		<资金>拾万元</资金>
+		<资源><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">1、人力资源（主要成员）：</font></div>
+<div><font size="2" face="宋体">管理组（2人）</font></div>
+<div><font size="2" face="宋体">开发组（4人）</font></div>
+<div><font size="2" face="宋体">质保组（2人）</font></div>
+<div><font size="2" face="宋体">配置组（1人）</font></div>
+<div><font size="2" face="宋体">用户组（3人）</font></div>
+<div>2、物力资源：12台高性能办公笔记本</div></div></资源>
+		<实现限制><div xmlns="http://www.w3.org/1999/xhtml">1、项目生产实现与上线流程符合中华人民共和国相关法律法规</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、成品应用不能超过100M</div></实现限制>
+	</项目限制>
+	<其他></其他>
+</任务书>

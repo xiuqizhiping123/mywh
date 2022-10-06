@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="五子棋" 项目标识="WZQ" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>WZQ_SRR_1.0.0</文件标识>
+			<当前版本>1.0.0v</当前版本>
+			<作者>
+				<姓名>陈龙、张樱蓝、张硕、韦莹</姓名>
+				<学号>2019011248、2019011428、2019011427、2018011792</学号>
+				<团队>软工项目小组</团队>
+			</作者>
+			<完成日期>2022-09-29</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 559px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 87px"/>
+<col style="WIDTH: 81px"/>
+<col style="WIDTH: 41px"/>
+<col style="WIDTH: 113px"/>
+<col style="WIDTH: 237px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">版本/状态</font></div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">作者</font></div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">参与者</font></div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">起止日期</font></div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">备注</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 11px">
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">1.0.0/正式版本</font></div></font></td>
+<td vAlign="top"><font face="仿宋_GB2312">陈龙、张樱蓝、张硕、韦莹</font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">2022年9月28日至9月29日</font></div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2" face="仿宋_GB2312">依据《五子棋-软件需求说明书-2.1.0v》和线上需求评审会议内容起草本文档。</font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td></tr>
+<tr style="MIN-HEIGHT: 6px">
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td>
+<td vAlign="top"><font size="2">
+<div><font size="2"></font><font face="仿宋_GB2312"></font> </div></font></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>软工项目小组-需求评审会议</标题>
+	<组织名称>软工项目小组</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>刘奕苇</主持人>
+	<参加人>软工项目小组全体成员、软工集团软件研究专家组</参加人>
+	<地点>线上会议</地点>
+	<日期>2022-09-28</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">《五子棋-需求评审报告》</div></提交内容>
+	<评审项与结论>
+		<要素>文档是否规范</要素>
+		<评审结果><font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml">文档内容基本规范</font></评审结果>
+		<问题和对策>无</问题和对策>
+	<要素>是否采用了必要的工具</要素><评审结果>采用STARUML软件绘制流程图与数据流图等，符合要求</评审结果><问题和对策>无</问题和对策><要素>技术的准确度</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">1、数据库设计方面不够明确，<font face="宋体">涉及用户信息和对局信息存储在文档中表述不是很清晰</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、软件内容中的五子棋落点时间精度不够明确</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、软件故障处理要求不够明确</div></评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">1、数据库设计方面不够明确，<font face="宋体">涉及用户信息和对局信息存储在文档中表述不是很清晰</font>：<font face="宋体">由需求组和开发组共通商讨决策</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、软件内容中的五子棋落点时间精度不够明确：由需求组和开发组共通商讨</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、软件故障处理要求不够明确：由需求组处理</div></问题和对策><要素>覆盖范围的完整性</要素><评审结果>覆盖范围较为完整</评审结果><问题和对策>无</问题和对策><要素>行文是否通顺易懂</要素><评审结果>行文通顺，较为易懂。</评审结果><问题和对策>无</问题和对策><要素>开发是否按计划进行</要素><评审结果>开发按计划如期进行</评审结果><问题和对策>无</问题和对策><要素>是否进行了版本控制</要素><评审结果>已建立版本库，已开启版本控制。</评审结果><问题和对策>无</问题和对策><要素>是否有基线控制</要素><评审结果>需求没有明确基线控制部分</评审结果><问题和对策>配置组需要与管理组进行商讨，尽快明确基线控制问题与解决方案</问题和对策><要素>软硬件划分的合理性和可行性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">软件划分较为明确，硬件还需详细说明</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></评审结果><问题和对策>需求开发组需对硬件划分进行拓展详细说明</问题和对策><要素>接口要求的合理性</要素><评审结果>接口不合理</评审结果><问题和对策>没有指出软件开发中的接口，需要理解软件中的接口定义，需要开发组重新梳理接口问题。</问题和对策><要素>质量要求的合理性</要素><评审结果>系统质量达及格线但还需要往上提升。</评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">对系统的并发性要求太低，不符合实际。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">时间特性要求中，一般游戏胜利提示时间不明确。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">故障处理中没有涉及强制关闭应用时数据的保存、恢复等处理。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">以上需要开发组继续明确以及处理。</div></问题和对策><要素>开发环境要求的合理性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">开发环境要求基本合理</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></评审结果><问题和对策>无</问题和对策><要素>开发进度要求的合理性</要素><评审结果>开发进度要求基本合理</评审结果><问题和对策>无</问题和对策><要素>软件开发技术的合理性、可行性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">开发技术合理且可行。</div></评审结果><问题和对策>无</问题和对策><要素>软件开发成本的合理性、可行性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">需求在成本消耗上没有明确说明</font></div></评审结果><问题和对策>需要写出成本的具体分配内容。</问题和对策><要素>需求分析是否全面</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">需求的描述较为全面</font></div></评审结果><问题和对策>涉及细节问题还需要进一步补充说明</问题和对策><要素>是否明确、完整、一致性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">1、数据库设计方面不够明确，<font face="宋体">涉及用户信息和对局信息存储在文档中表述不是很清晰</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、软件内容中的五子棋落点时间精度不够明确</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、软件故障处理要求不够明确</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4、开发成本消耗不明确</div></评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">1、关于运行的安卓系统前后不一致,需求说明书中2.3应用环境中是4.0，4.1中是5.0、需求组需要明确这一需求，保证一致性</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、文档中定义与缩写缺失，需要需求开发组进行补充</div></问题和对策><要素>软件需求对系统需求是否有可追踪性</要素><评审结果>基于版本控制的情况下，有可追踪性</评审结果><问题和对策>无</问题和对策><要素>有否可测性</要素><评审结果>有可测性</评审结果><问题和对策>无</问题和对策><要素>软件设计、操作和维护的可行性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">软件设计不够全面，涉及数据库设计方面还需要进一步明确</div></评审结果><问题和对策>数据库设计需求开发组需要进一步明确。</问题和对策></评审项与结论>
+	<总结><div xmlns="http://www.w3.org/1999/xhtml">需求描述较为明确清晰，需求设计较为合理可行，文档内容基本规范，但是需求细节上还需要更明确详细，经过软件研究专家组评审一致同意需求评审通过。</div></总结>
+	<签字>韦莹、陈龙、刘涵、赵禹、黄显雯、程洋、钟圣生、张樱蓝、张硕、向雪、肖云天、刘奕苇、卢永衡</签字>
+	<附件>
+		<其他材料><div xmlns="http://www.w3.org/1999/xhtml">《五子棋-软件需求说明书-2.1.0v》</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></其他材料>
+		<评审记录><div xmlns="http://www.w3.org/1999/xhtml">《五子棋-需求评审会会议纪要》</div></评审记录>
+	</附件>
+</评审报告>
